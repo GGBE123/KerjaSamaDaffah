@@ -7,7 +7,7 @@ d a
 sda
 _USE_DECLSPECS_FOR_SALd asmd as
 asm asms
-_USE_DECLSPECS_FadasasdadasdasdasdasdasOR_SALd asasdasdasdasddasdasdasdassdsaddadadasdasdasdasdad
+_USE_DECLSPECS_sdfsdfsdfadasasdadasdasdasdasdasOR_SALd asasdasdasdasddasdasdasdassdsaddadadasdasdasdasdad
  as
   a
   __STDC_NO_ATOMICS__ as
