@@ -1,1 +1,1 @@
-print("Tidak tau apa apa")
+print("Tidak tau apa asasdsdasdsdasdasapa")
