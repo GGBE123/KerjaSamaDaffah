@@ -1,3 +1,1 @@
-<div style="text-align: center;">
-  <img src="https://tenor.com/view/zesty-sonic-zesty-sonic-yum-scrumptious-gif-450341359401087919" alt="banner" style="width: 100%; height:400px">
-</div>
+![Zesty Sonic Yum GIF](https://media.tenor.com/2h5y8Q8UPfgAAAAM/zesty-sonic-yum.gif)
